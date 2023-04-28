@@ -4,3 +4,7 @@ module.exports = function(api) {
     presets: ['babel-preset-expo'],
   };
 };
+<<<<<<< HEAD
+=======
+
+>>>>>>> 20c305472f5ff21098fd90b7993bfae0419f6eb8

@@ -13,6 +13,10 @@ export default function App() {
   );
 }
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 20c305472f5ff21098fd90b7993bfae0419f6eb8
 const styles = StyleSheet.create({
   container: {
     flex: 1,
